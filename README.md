@@ -1,10 +1,10 @@
-### Hi there 👋
+![ne2030's github stats](https://github-readme-stats.vercel.app/api?username=ne2030&show_icons=true&theme=vue)
 
 <!--
 **ne2030/ne2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
